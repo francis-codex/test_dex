@@ -39,7 +39,7 @@
     "react-dom": "^18.2.0",
     "react-native": "^0.71.7",
     "react-native-web": "^0.19.4",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "reactjs-popup": "^2.0.5",
     "reactstrap": "^9.1.5",
     "request": "^2.88.2",
